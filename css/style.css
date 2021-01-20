@@ -6,7 +6,7 @@ body{
     background: #312E2B;
 }
 
-h1, p {
+h1, h2, p {
     color: white;
     font-family: Arial, sans-serif;
 }
